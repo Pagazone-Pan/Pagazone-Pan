@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 ## I'm a graduate student at USC whose major is Computer Engineering
-## I'm currently learning about Computer Network
+## I'm interested in learning about Computer Network
+## My favorite hobbies are karting and offroading.
 
 <!--
 **Pagazone-Pan/Pagazone-Pan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
