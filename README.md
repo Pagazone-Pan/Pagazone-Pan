@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## I'm a graduate student at USC whose major is Computer Engineering
+## I'm currently learning about Computer Network
+
 <!--
 **Pagazone-Pan/Pagazone-Pan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
